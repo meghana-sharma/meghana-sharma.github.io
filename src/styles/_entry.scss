@@ -1,0 +1,39 @@
+.first {
+  min-height: 100vh;
+  overflow: hidden;
+  padding: 1.5rem 5rem;
+}
+
+.welcomeimg {
+  max-width: 100%;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+  height: 80vh;
+  width: 100%;
+}
+
+.greeting {
+  display: flex;
+  margin-top: -35%;
+  margin-left: 50%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 600;
+  font-size: 4rem;
+  color: white;
+}
+
+.subgreeting {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 500;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+  margin-top: 12.5%;
+  color: white;
+}
+
+.programsentry {
+  margin-top: 20%;
+}
